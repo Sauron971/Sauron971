@@ -1,7 +1,4 @@
-<div>
-  <h1 align="center"> Hi there👋 Im's <a style="font-family: Gotham; color: red;" href="#">Pavel!</a></h1>
-  
-</div>
+<h1 align="center"> Hi there👋 Im's <a href="#">Pavel!</a></h1>
 
 
 <!--
