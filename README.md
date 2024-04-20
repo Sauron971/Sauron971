@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"> Hi there👋 Im's <a href="#">Pavel!</a></h1>
+  <h1 align="center"> Hi there👋 Im's <a style="font-family: Gotham," href="#">Pavel!</a></h1>
   
 </div>
 
