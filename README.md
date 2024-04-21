@@ -33,7 +33,7 @@
 </details>
 
 ---
-<details open>
+<details>
   <summary>My repositories</summary>
   <p>
     <a href="https://github.com/Sauron971/ShotKvantSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sauron971&repo=ShotKvantSite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shotkvant"></a>
