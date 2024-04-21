@@ -22,10 +22,22 @@
 </p>
 
 ---
-<details>
+<details open>
+    <summary>Languages that I know</summary>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white">
+</details>
+
+---
+<details open>
   <summary>My repositories</summary>
   <p>
-    
+    <a href="https://github.com/Sauron971/ShotKvantSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sauron971&repo=ShotKvantSite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shotkvant"></a>
+      <a href="https://github.com/Sauron971/KyasTrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sauron971&repo=KyasTrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="trader"></a>
   </p>
 </details>
 
