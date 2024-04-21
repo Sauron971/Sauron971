@@ -1,6 +1,6 @@
 <h2 align="center"> Hi there👋 Im's <a href="#">Pavel!</a></h2>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DF7BF&center=true&vCenter=true&random=false&width=380&lines=Junior+java+programmer;Always+learning+new+things;A+student+of+a+Russian+college" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7DF7BF&center=true&vCenter=true&random=false&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Junior+java+programmer%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;%F0%9F%92%A1Always+learning+new+things%F0%9F%92%A1;A+student+of+a+Russian+college" alt="Typing SVG" /></a>
 </p>
 <p align="center">
     <a href="https://github.com/Sauron971?tab=repositories&sort=stargazers">
@@ -23,7 +23,7 @@
 
 ---
 <details open>
-    <summary>Languages that I know</summary>
+    <summary>🧠Languages that I know</summary>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -34,24 +34,10 @@
 
 ---
 <details>
-  <summary>My repositories</summary>
+  <summary>📘My repositories</summary>
   <p>
     <a href="https://github.com/Sauron971/ShotKvantSite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sauron971&repo=ShotKvantSite&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shotkvant"></a>
       <a href="https://github.com/Sauron971/KyasTrader"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sauron971&repo=KyasTrader&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="trader"></a>
   </p>
 </details>
 
-<!--
-**Sauron971/Sauron971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
