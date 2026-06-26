@@ -14,21 +14,40 @@
 <p>
   🤔About me: 
   <ul>
-    <li>🗿I'm serious about creating new and interesting code.</li>
+    <li>🗿Interested in creating useful applications and learning new technologies.</li>
     <li>👾In my free time, I like to play computer games with my friends</li>
     <li>🍿I love watching movies and TV series</li>
-    <li>❤️I am always friendly to new acquaintances</li>
+    <li>❤️Open to learning, collaboration and new challenges</li>
   </ul>
 </p>
 
 ---
+
+## 🚀 Featured projects
+
+- WolkAndHold — Android + Spring Boot GPS client-server system
+- LibraryManagementAPI — FastAPI REST API
+- WebTableParser — C# web parser
+- ContactManager — Spring Boot + React application
+---
 <details open>
-    <summary>🧠Languages that I know</summary>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?logo=unrealengine&logoColor=white">
+<summary>🧠 Languages that I know</summary>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white">
+
+</details>
+<details>
+<summary>⚙️ Technologies</summary>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
 </details>
 
