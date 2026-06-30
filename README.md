@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/Sauron971?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sauron971?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Sauron971/WolkAndHold-GeoService?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     <a href="https://github.com/Sauron971?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Sauron971?style=for-the-badge&logo=github&label=Followers">
   <img alt="soon" src="https://custom-icon-badges.demolab.com/badge/-Everything%20is%20Ahead-F25278?style=for-the-badge&logoColor=white&logo=star">
